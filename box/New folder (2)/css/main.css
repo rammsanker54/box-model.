@@ -1,0 +1,28 @@
+.box-model
+{
+    box-sizing: border-box;
+    
+}
+
+.padding{
+    
+cursor: pointer;
+padding: 10px 10px ;
+border: 9px 8px 7px 6px;
+margin: 20px;
+
+border: 2px red;
+}
+.margin
+{
+    margin: auto green;
+    outline: auto greenyellow;
+}
+
+.t
+{
+    width: 80%;
+    padding: 50px;
+    border: 2px;
+    outline: auto 2px green;
+}
